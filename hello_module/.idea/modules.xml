@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/dao/dao.iml" filepath="E:/dao/dao.iml" />
+      <module fileurl="file://E:/entity/entity.iml" filepath="E:/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_module.iml" filepath="$PROJECT_DIR$/hello_module.iml" />
+      <module fileurl="file://E:/service/service.iml" filepath="E:/service/service.iml" />
+    </modules>
+  </component>
+</project>
